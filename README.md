@@ -12,7 +12,7 @@ Bot assistente que automatiza a coleta de dados de um site ( foi utilizado o sit
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
-<linha de comando>
+git clone (https://github.com/armandomonteir-o/bot-automatiza-o-coleta-envio-dados.git)
 ```
 
 ## :soon: Implementação futura

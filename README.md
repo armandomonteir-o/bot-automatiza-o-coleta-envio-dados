@@ -16,7 +16,7 @@ git clone (https://github.com/armandomonteir-o/bot-automatiza-o-coleta-envio-dad
 ```
 
 ## :soon: Implementação futura
-* Será utilizado por trabalhadores de empresas contábeis que querem automatizar a sua função, com o objetivo de poupar o tempo dos mesmos
+* Será utilizado por trabalhadores de empresas contábeis que querem automatizar a sua função, com o objetivo de otimizar o tempo de trabalho dos mesmos
 
 ## :handshake: Colaboradores
 <table>

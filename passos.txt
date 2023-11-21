@@ -1,0 +1,4 @@
+1 - acessar o site que você quer coletar os dados ( site que eu irei utilizar https://www.pichau.com.br/computadores/pichau-gamer)
+2 - extrair todos os titulos
+3 - extrair todos os preços
+4 - inserir todos os titulos e preços na planilha
